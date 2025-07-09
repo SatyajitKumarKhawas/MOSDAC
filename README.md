@@ -34,3 +34,35 @@ Built with 🛰️ NLP + 🌌 Graphs + 🤖 Agentic AI (Groq + Firecrawl).
 ```bash
 git clone https://github.com/yourusername/mosdac-space-explorer.git
 cd mosdac-space-explorer
+Create a virtual environment
+
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+Install dependencies
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Download spaCy model
+
+bash
+Copy
+Edit
+python -m spacy download en_core_web_sm
+Configure .env
+
+bash
+Copy
+Edit
+# .env file
+FIRECRAWL_API_KEY=your_firecrawl_api_key_here
+Run the Streamlit app
+
+bash
+Copy
+Edit
+streamlit run app.py
