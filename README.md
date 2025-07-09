@@ -65,9 +65,3 @@ Run the Streamlit app
 bash
 Copy
 Edit
-streamlit run app.py![Screenshot 2025-07-09 195118](https://github.com/user-attachments/assets/4fef5585-8609-4b73-a7e7-2740135bcf52)
-
-
-![Screenshot 2025-07-09 195133](https://github.com/user-attachments/assets/bf97f563-fc5e-42de-bc69-dcbb1676f2a6)
-![Screenshot 2025-07-09 195144](https://github.com/user-attachments/assets/8237b271-9f82-44a6-a775-a35ac0352fb4)
-![Screenshot 2025-07-09 195159](https://github.com/user-attachments/assets/93c245a7-15e8-4277-8c03-bff5759af05d)
